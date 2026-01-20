@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Ryan 👋
 
-<!--
-**ryanrivest/ryanrivest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer who enjoys building secure, scalable applications and solving complex integration challenges. My background is rooted in the .NET ecosystem, with extensive experience in the e-commerce and marketplace space.
 
-Here are some ideas to get you started:
+### Technical Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend & Cloud:** Extensive work with C#, .NET Core, and ASP.NET Core. I’ve implemented distributed systems using Kafka and AWS SQS to handle high-volume order streaming and price changes.
+* **Frontend:** I have a strong interest in building clean, intuitive user interfaces. While I work heavily in Angular and TypeScript, I enjoy the process of creating pixel-perfect implementations from the ground up.
+* **Infrastructure:** Hands-on with Docker, Kubernetes (EKS/Helm), and Terraform to manage containerized environments and infrastructure-as-code.
+
+### Current Interests
+
+* **AI & Agentic Dev:** Experimenting with autonomous agents and LLM-assisted coding workflows.
